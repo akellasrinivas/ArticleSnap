@@ -5,7 +5,7 @@ Welcome to Article Snap! This is a web application that fetches the latest news 
 ## Web UI
 
 ![Web UI](images/Screenshot%2024-11-12%170327.png)
-![Web UI](Images/Screenshot%202024-11-12%20142840.png)
+![Web UI](images/Screenshot%2024-11-12%170806.png)
 
 ## Features
 
