@@ -25,22 +25,22 @@ Welcome to Article Snap! This is a web application that fetches the latest news 
 
 1. Clone the repository:
 
-bash
+```bash
 git clone https://github.com/akellasrinivas/ArticleSnap.git
-
+```
 
 2. Install the dependencies:
 
-bash
+```bash
 npm install
-
+```
 
 3.Create a .env file in the root directory and add your API keys:
 
-bash
+```bash
 REACT_APP_NEWS_API_KEY=your_news_api_key_here
 REACT_APP_SUMMARY_API_KEY=your_summary_api_key_here
-
+```
 
 4.To get the News API Key:
 
@@ -59,16 +59,16 @@ REACT_APP_SUMMARY_API_KEY=your_summary_api_key_here
 
 6. Start the application:
 
-bash
+```bash
 npm run dev
-
+```
 
 
 7. Open your web browser and visit http://localhost:5000 to access the Application.
 
 
 ## Authors
-- Dadvaiah Pavan
+- Srinivas Akella
 
 ## Contribution
 
