@@ -3,7 +3,7 @@
 Welcome to Article Snap! This is a web application that fetches the latest news articles, categorizes them, and provides a summarized version using an AI-powered summarizer. Built with React and Axios, it utilizes APIs to fetch news and generate summaries dynamically.
 
 ## Web UI
-![Web UI](images/Screenshot%2024-11-12%20170806.png)
+![Web UI](images/Screenshot%2024-11-12%170327.png)
 
 
 ## Features
