@@ -32,6 +32,9 @@ git clone https://github.com/akellasrinivas/ArticleSnap.git
 ```bash
 npm install
 ```
+```bash
+npm run dev
+```
 
 3.Create a .env file in the root directory and add your API keys:
 
